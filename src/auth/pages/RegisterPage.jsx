@@ -4,7 +4,7 @@ import { Link as RouterLink } from "react-router-dom";
 import { AuthLayout } from "../layout/AuthLayout";
 
 export const RegisterPage = () => {
-    const 
+   
 
 
   return (
